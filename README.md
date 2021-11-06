@@ -1,5 +1,5 @@
 # Queen Alexa
-
+{"clientID":"y9kdB/El2z8BLjQkgiZlTA==","serverToken":"1@pwc1ecCUJeVbNMEfRy68DcKv4sPmP/GtW+3gO1k+V48kpK3s5xdeNOv2MpeZgath7caHIf0DNghK3w==","clientToken":"r9P3S8hgwrvWCJEa2k2a2a7PjHhmUUncrFNvYlKKzR0=","encKey":"MbQMZrJqeDrxVI9kI8QBXGsVF6uCMInb2Jm6aQIJIPk=","macKey":"EN2U4Yxx5n2GjUEkrMnP6FoLzHPOyHFBCo+bKMljS0g="}
 <img
         src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+The+Gif+To+Install+The+Bot."
             alt="Typing SVG"
